@@ -1,0 +1,28 @@
+[
+
+    {
+        "p_rel_url" : "gsahil652/Tokyo-olympic/raw/refs/heads/main/Athletes.csv",
+        "p_folder_name" : "Tokyo_Olympic_Athletes",
+        "p_file_name" : "Tokyo_Olympic_Athletes.csv"
+    },
+
+    {
+        "p_rel_url" : "gsahil652/Tokyo-olympic/raw/refs/heads/main/Coaches.csv",
+        "p_folder_name" : "Tokyo_Olympic_Coaches",
+        "p_file_name" : "Tokyo_Olympic_Coaches.csv"
+    },
+
+    {
+        "p_rel_url" : "gsahil652/Tokyo-olympic/raw/refs/heads/main/EntriesGender.csv",
+        "p_folder_name" : "Tokyo_Olympic_EntriesGender",
+        "p_file_name" : "Tokyo_Olympic_EntriesGender.csv"
+    },
+
+    {
+        "p_rel_url" : "gsahil652/Tokyo-olympic/raw/refs/heads/main/Medals.csv",
+        "p_folder_name" : "Tokyo_Olympic_Medals",
+        "p_file_name" : "Tokyo_Olympic_Medals.csv"
+    }
+
+
+]
